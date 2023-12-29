@@ -33,7 +33,7 @@ Migrei para a área de Tecnologia e estou no início da jornada, todos os dias a
 
 * 🌱 Atualmente focada em tecnologias Front-End.
 
-* 📖 Estudo na Rocketseat e por meio de Cursos Livres.
+* 📖 Sou estudante de ADS e por meio de Cursos Livres.
 
 * ✒️Faço Faculdade de Análise e Desenvolvimento de Sistemas.
 
